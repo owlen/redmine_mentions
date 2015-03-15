@@ -16,7 +16,8 @@ To Install this plugin goto plugins in your redmine repository
 
 Clone the git repository: 
 
-	git https://github.com/arkhitech/redmine_mentions.git
-        Restart Redmine
+	git clone https://github.com/arkhitech/redmine_mentions.git
+
+Restart Redmine
        
         
